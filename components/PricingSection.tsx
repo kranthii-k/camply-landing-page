@@ -20,6 +20,7 @@ const PricingSection: React.FC = () => {
     "View detailed user experience & success blueprints",
     "Submit and access verified solutions for 'Problem of the Day'",
     "Unlimited access to the 'Find My Teammate' feature",
+    "Many More features Coming soon.. ",
   ];
 
   return (

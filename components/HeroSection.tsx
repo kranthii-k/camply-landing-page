@@ -23,6 +23,12 @@ const HeroSection: React.FC = () => {
           >
             Join Camply for Free
           </a>
+
+          <h1 className="text-3xl md:text-4xl lg:text-5xl font-extrabold text-white leading-tight tracking-tighter mb-6">
+            <br />
+            Coming Soon..
+          </h1>
+          
         </div>
       </FadeIn>
     </section>

@@ -22,7 +22,7 @@ const FeaturesSection: React.FC = () => {
     {
       icon: <ChartBarIcon />,
       title: 'Placement Mastery',
-      description: 'Turn placement anxiety into confidence with curated resources and insights.',
+      description: 'Turn placement anxiety into confidence with curated experience and insights.',
     },
     {
       icon: <CodeBracketIcon />,
