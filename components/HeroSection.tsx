@@ -22,7 +22,7 @@ const HeroSection: React.FC = () => {
           
           <FadeIn delay={150}>
             <p className="max-w-2xl mx-auto lg:mx-0 text-xl font-medium text-slate-400 mb-10 leading-relaxed">
-              Camply connects college students by skills, interests and goals — so you never build alone.
+              Camply connects college students by skills, interests and goals, so you never build alone.
             </p>
           </FadeIn>
           

@@ -25,21 +25,21 @@ const ProblemStatement: React.FC = () => {
         <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
           <FadeIn delay={100}>
             <ProblemCard 
-              icon="😩"
+              icon="!"
               title="Screaming into the Void"
               description="You post in random WhatsApp groups and Discord servers, only to get ignored or replies from the wrong people."
             />
           </FadeIn>
           <FadeIn delay={200}>
             <ProblemCard 
-              icon="😤"
+              icon="✕"
               title="Forced Groupings"
               description="Hackathon teams are formed by who knows who, not who's best. Your grade or prize suffers."
             />
           </FadeIn>
           <FadeIn delay={300}>
             <ProblemCard 
-              icon="😔"
+              icon="?"
               title="Dead Ideas"
               description="Your amazing startup or project idea dies because you can't find that one frontend dev or UI designer."
             />

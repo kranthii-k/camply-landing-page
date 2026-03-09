@@ -18,7 +18,7 @@ const CTABanner: React.FC = () => {
               rel="noopener noreferrer"
               className="bg-orange-500 hover:bg-orange-600 text-white font-bold py-5 px-12 rounded-xl transition-all duration-300 text-xl shadow-[0_0_25px_rgba(249,115,22,0.4)] hover:shadow-[0_0_40px_rgba(249,115,22,0.6)] transform hover:-translate-y-1 block max-w-md mx-auto w-full sm:w-auto"
             >
-              Join the Beta — It's Free
+              Join the Beta Today
             </a>
             <p className="text-slate-400 mt-6 font-medium">
               Beta is live. No waitlist. Sign up in 30 seconds.
