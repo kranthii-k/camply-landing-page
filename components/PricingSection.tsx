@@ -59,7 +59,10 @@ const PricingSection: React.FC = () => {
               <div className="absolute top-0 right-0 bg-orange-500 text-white text-xs font-bold px-4 py-1 rounded-bl-lg">BEST VALUE</div>
               <h3 className="text-2xl font-bold text-white">Pro</h3>
               <p className="text-slate-400 mt-2">For those serious about their career.</p>
-              <p className="text-5xl font-extrabold text-white my-6">₹499<span className="text-lg font-medium text-slate-400">/month</span></p>
+              <p className="text-5xl font-extrabold text-white my-6">
+                <span className="text-2xl line-through text-slate-500 mr-2">₹249</span>
+                ₹59<span className="text-lg font-medium text-slate-400">/month</span>
+              </p>
               <ul className="space-y-4 text-slate-300 mb-8">
                 {proFeatures.map((feature, i) => (
                   <li key={i} className="flex items-center font-medium">

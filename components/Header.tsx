@@ -12,13 +12,13 @@ const Header: React.FC = () => {
           <a href="#pricing" onClick={(e) => { e.preventDefault(); document.querySelector('#pricing')?.scrollIntoView({ behavior: 'smooth' }); }} className="hover:text-orange-400 transition-colors duration-300">Pricing</a>
           <a href="#contact" onClick={(e) => { e.preventDefault(); document.querySelector('#contact')?.scrollIntoView({ behavior: 'smooth' }); }} className="hover:text-orange-400 transition-colors duration-300">Contact</a>
         </nav>
-        <a 
-          href="https://camply.live"
+        <a
+          href="https://beta.camply.live"
           target="_blank"
           rel="noopener noreferrer"
           className="bg-slate-800 hover:bg-slate-700 text-white font-semibold py-2 px-6 rounded-lg transition-all duration-300 border border-slate-700 hover:border-orange-500"
         >
-          Try Demo
+          Try Now
         </a>
       </div>
     </header>
