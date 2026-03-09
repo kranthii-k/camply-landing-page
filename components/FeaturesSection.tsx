@@ -22,17 +22,17 @@ const FeaturesSection: React.FC = () => {
     {
       icon: <TargetIcon />,
       title: 'Match by Skills, Not Luck',
-      description: 'Our algorithm matches you with students who complement your skillset for projects and hackathons. (/api/v1/match)',
+      description: 'Our algorithm matches you with students who complement your skillset for projects and hackathons.',
     },
     {
       icon: <UsersGroupIcon />,
       title: 'Create or Join Teams',
-      description: 'Form teams for hackathons, startups, or college projects. Manage members and roles in one place. (/api/v1/teams)',
+      description: 'Form teams for hackathons, startups, or college projects. Manage members and roles in one place.',
     },
     {
       icon: <MegaphoneIcon />,
       title: 'Post Opportunities',
-      description: 'Share project ideas, hackathon callouts, or internship leads. Reach the right people instantly. (/api/v1/posts)',
+      description: 'Share project ideas, hackathon callouts, or internship leads. Reach the right people instantly.',
     },
     {
       icon: <TrophyIcon />,
@@ -42,12 +42,12 @@ const FeaturesSection: React.FC = () => {
     {
       icon: <ChatBubbleIcon />,
       title: 'Chat in Real Time',
-      description: 'Message teammates directly. No switching apps, no losing context. (/api/v1/chats)',
+      description: 'Message teammates directly. No switching apps, no losing context.',
     },
     {
       icon: <UserCircleIcon />,
       title: 'Your Dev Identity',
-      description: 'Showcase your skills, college, bio and projects. Let the right people find you. (/api/v1/users)',
+      description: 'Showcase your skills, college, bio and projects. Let the right people find you.',
     },
   ];
 
