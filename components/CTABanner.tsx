@@ -13,7 +13,7 @@ const CTABanner: React.FC = () => {
           </h2>
           <div className="flex flex-col items-center justify-center">
             <a 
-              href="https://beta.camply.live/signup"
+              href="https://camply.live/signup"
               target="_blank"
               rel="noopener noreferrer"
               className="bg-orange-500 hover:bg-orange-600 text-white font-bold py-5 px-12 rounded-xl transition-all duration-300 text-xl shadow-[0_0_25px_rgba(249,115,22,0.4)] hover:shadow-[0_0_40px_rgba(249,115,22,0.6)] transform hover:-translate-y-1 block max-w-md mx-auto w-full sm:w-auto"

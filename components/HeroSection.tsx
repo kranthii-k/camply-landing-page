@@ -29,7 +29,7 @@ const HeroSection: React.FC = () => {
           <FadeIn delay={300}>
             <div className="flex flex-col sm:flex-row items-center justify-center lg:justify-start gap-4">
               <a 
-                href="https://beta.camply.live/signup"
+                href="https://camply.live/signup"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="w-full sm:w-auto bg-orange-500 hover:bg-orange-600 text-white font-bold py-4 px-8 rounded-xl transition-all duration-300 text-lg shadow-lg shadow-orange-500/30 hover:shadow-xl hover:shadow-orange-500/40 transform hover:-translate-y-1 text-center"

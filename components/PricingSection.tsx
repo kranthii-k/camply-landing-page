@@ -47,7 +47,7 @@ const PricingSection: React.FC = () => {
                   </li>
                 ))}
               </ul>
-              <a href="https://beta.camply.live" target="_blank" rel="noopener noreferrer" className="mt-auto w-full text-center bg-slate-700 hover:bg-slate-600 text-white font-semibold py-3 px-6 rounded-lg transition-colors duration-300">
+              <a href="https://camply.live" target="_blank" rel="noopener noreferrer" className="mt-auto w-full text-center bg-slate-700 hover:bg-slate-600 text-white font-semibold py-3 px-6 rounded-lg transition-colors duration-300">
                 Start Free
               </a>
             </div>
@@ -71,7 +71,7 @@ const PricingSection: React.FC = () => {
                   </li>
                 ))}
               </ul>
-              <a href="https://beta.camply.live" target="_blank" rel="noopener noreferrer" className="mt-auto w-full text-center bg-orange-500 hover:bg-orange-600 text-white font-bold py-3 px-6 rounded-lg transition-all duration-300 shadow-lg shadow-orange-500/30 hover:shadow-xl hover:shadow-orange-500/40 transform hover:-translate-y-0.5">
+              <a href="https://camply.live" target="_blank" rel="noopener noreferrer" className="mt-auto w-full text-center bg-orange-500 hover:bg-orange-600 text-white font-bold py-3 px-6 rounded-lg transition-all duration-300 shadow-lg shadow-orange-500/30 hover:shadow-xl hover:shadow-orange-500/40 transform hover:-translate-y-0.5">
                 Go Pro and Accelerate
               </a>
             </div>

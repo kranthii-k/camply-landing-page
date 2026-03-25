@@ -12,11 +12,11 @@ const Header: React.FC = () => {
         <nav className="hidden md:flex space-x-8 items-center">
           <a href="#features" onClick={(e) => { e.preventDefault(); document.querySelector('#features')?.scrollIntoView({ behavior: 'smooth' }); }} className="text-slate-300 hover:text-orange-400 font-medium transition-colors duration-300">Features</a>
           <a href="#how-it-works" onClick={(e) => { e.preventDefault(); document.querySelector('#how-it-works')?.scrollIntoView({ behavior: 'smooth' }); }} className="text-slate-300 hover:text-orange-400 font-medium transition-colors duration-300">How It Works</a>
-          <a href="https://beta.camply.live/login" className="text-slate-300 hover:text-orange-400 font-medium transition-colors duration-300">Login</a>
+          <a href="https://camply.live/login" className="text-slate-300 hover:text-orange-400 font-medium transition-colors duration-300">Login</a>
         </nav>
         <div className="flex items-center">
           <a
-            href="https://beta.camply.live/signup"
+            href="https://camply.live/signup"
             target="_blank"
             rel="noopener noreferrer"
             className="flex items-center gap-2 bg-orange-500 hover:bg-orange-600 text-white font-semibold py-2 px-6 rounded-lg transition-all duration-300 shadow-lg shadow-orange-500/20 hover:shadow-orange-500/40 transform hover:-translate-y-0.5"
